@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>05_AngularJS Directives</title>
+</head>
+    <body ng-app="myApp">
+        <div ng-init="demo = 123"></div>
+        <div ng-init="other = 456"></div>
+
+        <div my-click>Click me</div>
+        <my-click>Click as element</my-click>
+        
+        <my-template style="background-color: blue;"></my-template>
+        <my-template>One</my-template>
+        <my-template my-demo="other"><img src=",mxzfzlndf" /></my-template>
+        <my-template my-demo="demo">Three</my-template>
+
+        <script src="scripts/angular.js"></script>
+        <script src="Demo.js"></script>
+    </body>
+</html>
