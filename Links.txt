@@ -1,0 +1,20 @@
+02_Functional JS
+	http://lodash.com/
+	http://sugarjs.com/
+
+	
+03_Object-oriented JS
+	http://www.typescriptlang.org/
+	http://coffeescript.org/
+	List of languages that compile to JS 
+		https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
+	
+04_AngularJS Introduction
+	AngularJS Batarang
+		https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk/related?hl=en
+	
+	
+	
+	
+	
+	
