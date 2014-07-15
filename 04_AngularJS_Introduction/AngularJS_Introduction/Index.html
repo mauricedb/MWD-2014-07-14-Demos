@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>04_AngularJS Introduction</title>
+    <style>
+        /*.ng-scope {
+            border-width: 10px;
+            border-style: solid;
+            border-color: lightcoral;
+        }*/
+    </style>
+</head>
+<body ng-app="demoApp">
+    
+    <div ng-controller="DemoCtrl">
+        {{ model.name }}
+        <br />
+        <div ng-bind="model.name"></div>
+
+        <input type="text" ng-model="model.name" />
+        
+        <button ng-click="clicked()">Click me</button>
+        
+        <ul>
+            <li ng-repeat="person in people">
+                {{person.name}}
+                <br />
+                {{ model.name }}
+            </li>
+        </ul>
+    </div>
+
+    {{ 1 + 1 }}
+
+    <script src="scripts/angular.js"></script>
+    <script src="Demo.js"></script>
+</body>
+</html>
