@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>06_AngularJS and AJAX</title>
+</head>
+
+<body ng-app="demoApp" ng-controller="BooksCtrl">
+    
+    <ul>
+        <li ng-repeat="book in books">{{book.Title}} by {{book.Author}}</li>
+    </ul>
+
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/angular-resource.js"></script>
+    <script src="Demo.js"></script>
+</body>
+</html>

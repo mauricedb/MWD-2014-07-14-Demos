@@ -13,8 +13,8 @@
 	AngularJS Batarang
 		https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk/related?hl=en
 	
-	
-	
+05_AngularJS Directives
+	http://angular-ui.github.io/
 	
 	
 	
