@@ -16,5 +16,11 @@
 05_AngularJS Directives
 	http://angular-ui.github.io/
 	
+08_WebAPI	
+	http://www.telerik.com/fiddler
+	
+08_WebAPI
+	https://github.com/thinktecture/Thinktecture.IdentityServer.v3
+	
 	
 	
