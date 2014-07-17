@@ -22,5 +22,11 @@
 08_WebAPI
 	https://github.com/thinktecture/Thinktecture.IdentityServer.v3
 	
+10_HTML5_Networking
+	http://caniuse.com/
+	http://modernizr.com/
+	https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills
+	http://html5please.com/
+	http://socket.io/
 	
 	
