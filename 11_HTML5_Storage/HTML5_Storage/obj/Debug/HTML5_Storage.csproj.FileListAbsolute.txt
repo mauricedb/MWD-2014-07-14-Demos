@@ -1,0 +1,6 @@
+c:\Demos\11_HTML5_Storage\HTML5_Storage\bin\HTML5_Storage.dll.config
+c:\Demos\11_HTML5_Storage\HTML5_Storage\bin\HTML5_Storage.dll
+c:\Demos\11_HTML5_Storage\HTML5_Storage\bin\HTML5_Storage.pdb
+c:\Demos\11_HTML5_Storage\HTML5_Storage\obj\Debug\HTML5_Storage.csprojResolveAssemblyReference.cache
+c:\Demos\11_HTML5_Storage\HTML5_Storage\obj\Debug\HTML5_Storage.dll
+c:\Demos\11_HTML5_Storage\HTML5_Storage\obj\Debug\HTML5_Storage.pdb
