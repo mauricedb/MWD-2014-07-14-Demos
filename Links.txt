@@ -31,3 +31,7 @@
 	
 11_HTML5_Storage
 	http://brian.io/lawnchair/
+	
+12_HTML5_Offline and Background
+	https://github.com/kpozin/jquery-nodom
+	
