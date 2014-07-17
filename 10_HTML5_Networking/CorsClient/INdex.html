@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>10_HTML5_Networking</title>
+</head>
+<body>
+    <button id="callAPI">Call API</button>
+    <pre id="result"></pre>
+    
+    <script src="Scripts/jquery-2.1.1.js"></script>
+    <script>
+        $(function() {
+            $("#callAPI").click(function() {
+
+                $.getJSON("http://localhost:48497/api/values").always(function (result) {
+                    $("#result").text(JSON.stringify(result));
+                });
+
+            });
+        })
+    </script>
+</body>
+</html>

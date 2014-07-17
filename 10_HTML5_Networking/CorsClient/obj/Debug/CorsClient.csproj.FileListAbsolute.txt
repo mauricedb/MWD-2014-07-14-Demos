@@ -1,0 +1,6 @@
+c:\Demos\10_HTML5_Networking\CorsClient\bin\CorsClient.dll.config
+c:\Demos\10_HTML5_Networking\CorsClient\bin\CorsClient.dll
+c:\Demos\10_HTML5_Networking\CorsClient\bin\CorsClient.pdb
+c:\Demos\10_HTML5_Networking\CorsClient\obj\Debug\CorsClient.csprojResolveAssemblyReference.cache
+c:\Demos\10_HTML5_Networking\CorsClient\obj\Debug\CorsClient.dll
+c:\Demos\10_HTML5_Networking\CorsClient\obj\Debug\CorsClient.pdb
