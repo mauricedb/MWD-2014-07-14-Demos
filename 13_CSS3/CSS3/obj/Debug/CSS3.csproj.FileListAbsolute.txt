@@ -1,6 +1,0 @@
-c:\Demos\13_CSS3\CSS3\bin\CSS3.dll.config
-c:\Demos\13_CSS3\CSS3\bin\CSS3.dll
-c:\Demos\13_CSS3\CSS3\bin\CSS3.pdb
-c:\Demos\13_CSS3\CSS3\obj\Debug\CSS3.csprojResolveAssemblyReference.cache
-c:\Demos\13_CSS3\CSS3\obj\Debug\CSS3.dll
-c:\Demos\13_CSS3\CSS3\obj\Debug\CSS3.pdb

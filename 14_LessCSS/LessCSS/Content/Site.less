@@ -1,0 +1,51 @@
+﻿@horizonatal-padding: 15px;
+@vertical-padding: 20px;
+
+
+@base-color: red;
+
+.demo {
+    color: @base-color;
+    border-color: spin(@base-color, 10);
+}
+
+body {
+    padding-top: @vertical-padding * 2.5;
+    padding-bottom: @vertical-padding;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: @horizonatal-padding;
+    padding-right: @horizonatal-padding;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+            .default-transtion(all 5s;);
+
+}
+
+
+.default-transtion(@parm) {
+    -moz-transition: @parm;
+    -o-transition: @parm;
+    -webkit-transition: @parm;
+    transition: @parm;
+}
+
+#header {
+    max-width: 280px;
+
+    nav {
+        color: black;
+    }
+
+    &:hover {
+        color: green;
+        .default-transtion(all 1s;);
+    }
+}

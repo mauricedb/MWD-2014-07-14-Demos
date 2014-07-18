@@ -1,6 +1,0 @@
-c:\Demos\15_Bootstrap\Bootstrap\bin\Bootstrap.dll.config
-c:\Demos\15_Bootstrap\Bootstrap\bin\Bootstrap.dll
-c:\Demos\15_Bootstrap\Bootstrap\bin\Bootstrap.pdb
-c:\Demos\15_Bootstrap\Bootstrap\obj\Debug\Bootstrap.csprojResolveAssemblyReference.cache
-c:\Demos\15_Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
-c:\Demos\15_Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
