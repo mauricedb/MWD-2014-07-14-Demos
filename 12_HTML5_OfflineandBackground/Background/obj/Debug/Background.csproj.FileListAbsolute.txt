@@ -1,6 +1,0 @@
-c:\Demos\12_HTML5_OfflineandBackground\Background\bin\Background.dll.config
-c:\Demos\12_HTML5_OfflineandBackground\Background\bin\Background.dll
-c:\Demos\12_HTML5_OfflineandBackground\Background\bin\Background.pdb
-c:\Demos\12_HTML5_OfflineandBackground\Background\obj\Debug\Background.csprojResolveAssemblyReference.cache
-c:\Demos\12_HTML5_OfflineandBackground\Background\obj\Debug\Background.dll
-c:\Demos\12_HTML5_OfflineandBackground\Background\obj\Debug\Background.pdb

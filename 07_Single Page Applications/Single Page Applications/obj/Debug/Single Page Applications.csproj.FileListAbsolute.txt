@@ -1,6 +1,0 @@
-c:\Demos\07_Single Page Applications\Single Page Applications\bin\Single Page Applications.dll.config
-c:\Demos\07_Single Page Applications\Single Page Applications\bin\Single Page Applications.dll
-c:\Demos\07_Single Page Applications\Single Page Applications\bin\Single Page Applications.pdb
-c:\Demos\07_Single Page Applications\Single Page Applications\obj\Debug\Single Page Applications.dll
-c:\Demos\07_Single Page Applications\Single Page Applications\obj\Debug\Single Page Applications.pdb
-c:\Demos\07_Single Page Applications\Single Page Applications\obj\Debug\Single Page Applications.csprojResolveAssemblyReference.cache
