@@ -35,3 +35,8 @@
 12_HTML5_Offline and Background
 	https://github.com/kpozin/jquery-nodom
 	
+15_Bootstrap	
+	http://bootswatch.com/
+	https://wrapbootstrap.com/
+	http://thenounproject.com/
+	
